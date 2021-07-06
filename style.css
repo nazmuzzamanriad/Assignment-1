@@ -87,3 +87,19 @@ footer{
     border-radius: 10px;
     
 }
+
+.smc{
+    box-shadow: 5px 10px 5px 5px grey;
+    margin-bottom: 10px;
+    display: flex;
+    margin-bottom: 5%;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+.spacing{
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -49,3 +49,41 @@ h1{
     padding-left: 50px;
 }
 
+.middle-portion{
+
+    text-align: center;
+    
+}
+.recipearea{
+    box-shadow: 5px 10px 5px 5px grey;
+    width: 500%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top:5%;
+    border-radius: 10px;
+    text-align: center;
+}
+.recipearea img{
+    width: 80%;
+    margin-left: 0%;
+    margin-top: 10%;
+    
+}
+footer{
+    text-align: center;
+    color: white;
+
+
+    background-color: black;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+}
+.appslink{
+    font-weight: 800;
+    border: 1px solid white;
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    border-radius: 10px;
+    
+}

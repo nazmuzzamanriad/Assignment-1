@@ -55,7 +55,8 @@ h1{
     
 }
 .recipearea{
-    box-shadow: 5px 10px 5px 5px grey;
+    box-shadow: 5px 10px 10px 10px  grey;
+
     width: 500%;
     margin-left: 5%;
     margin-right: 5%;
@@ -85,11 +86,12 @@ footer{
     background-image: linear-gradient(orange,tomato);
     text-decoration: none;
     border-radius: 10px;
+    margin: 5px;
     
 }
 
 .smc{
-    box-shadow: 5px 10px 5px 5px grey;
+    box-shadow: 5px 10px 10px 10px grey;
     margin-bottom: 10px;
     display: flex;
     margin-bottom: 5%;

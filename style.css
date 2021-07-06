@@ -73,11 +73,9 @@ h1{
 footer{
     text-align: center;
     color: white;
-
-
     background-color: black;
-    padding-bottom: 5%;
-    padding-top: 5%;
+    padding-bottom: 0%;
+    padding-top: 2%;
     
 }
 .appslink{
